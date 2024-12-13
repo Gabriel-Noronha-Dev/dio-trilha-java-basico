@@ -30,15 +30,6 @@ public class ContaTerminal {
         
         }
         
-        
-        
-
-        
-
-
-       /*  System.out.println(
-                        "Número da agência: " + agency + "\n" + //
-                        "Nome do usuário:" + user );*/
 
 
     }
